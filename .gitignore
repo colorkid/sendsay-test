@@ -3,3 +3,7 @@
 
 # Distribution 
 /dist
+
+/.vs
+/.history
+/.idea
